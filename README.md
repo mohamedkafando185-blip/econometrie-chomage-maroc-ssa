@@ -51,22 +51,18 @@ UniLoge Maroc intègre de manière fluide plusieurs modules métiers (CRM, Site 
 ### 🧑‍💻 Espace Public (Site Web)
 * Formulaires intelligents pour étudiants et propriétaires.
 * Interface responsive et intuitive.
-* *Capture d'écran suggérée :* `![Site Web](lien_vers_image)`
 
 ### 📇 Gestion Relation Client (CRM)
 * Filtrage et matching par localisation et budget.
 * Pipeline de vente structuré par étapes.
-* *Capture d'écran suggérée :* `![Dashboard CRM](lien_vers_image)`
 
 ### 📑 Gestion Locative (Applicéo)
 * Génération automatisée des **contrats de bail en PDF**.
 * Facturation récurrente et quittances automatiques.
-* *Capture d'écran suggérée :* `![Contrat PDF](lien_vers_image)`
 
 ### 👥 Gestion des Ressources Humaines
 * Gestion des salaires, congés et absences.
 * Génération automatique des bulletins de paie.
-* *Capture d'écran suggérée :* `![Bulletin de Paie](lien_vers_image)`
 
 ---
 
@@ -83,19 +79,6 @@ UniLoge Maroc intègre de manière fluide plusieurs modules métiers (CRM, Site 
 - Travail en équipe agile et gestion des délais (cycle de 1 semestre).
 - Résolution de problèmes techniques complexes.
 
----
-
-## 📸 Aperçu du Projet (Captures)
-
-| Dashboard CRM | Formulaire Étudiant |
-|---|---|
-| ![CRM](https://via.placeholder.com/400x250?text=Dashboard+CRM) | ![Form](https://via.placeholder.com/400x250?text=Formulaire+Web) |
-
-| Contrat de Bail | Bulletin de Paie |
-|---|---|
-| ![Bail](https://via.placeholder.com/400x250?text=Contrat+PDF) | ![Paie](https://via.placeholder.com/400x250?text=Bulletin+de+Paie) |
-
----
 
 ## 🚧 Défis Relevés & Solutions
 
